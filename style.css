@@ -1,0 +1,37 @@
+
+.title {
+  font-family: Impact;
+  font-size: 2em;
+}
+
+.explanation {
+  font-family: Impact;
+  font-size: 1em;
+}
+
+.promptpara {
+  clear: both;
+  font-family: Courier;
+  font-size: 2em;
+}
+
+.subpromptpara  {
+  font-family: Courier;
+  font-size: 0.7em;
+}
+
+.result {
+  clear: both;
+  font-family: Impact;
+  font-size: 2em;
+}
+
+.choice {
+  clear: both;
+  font-family: Impact;
+  font-size: 1.5em;
+}
+
+.icons {
+  float: left;
+}
